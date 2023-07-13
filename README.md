@@ -1,6 +1,11 @@
 # ClinicalNMT
 Clinical NMT Projects and Related Resources
 
+# Presentations
+ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https://virtual2023.aclweb.org/paper_ClinicalNLP_6.html
+
+WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.org/program/workshops/
+
 
 #  References
 
