@@ -1,4 +1,4 @@
-<img src="https://github.com/HECTA-UoM/ClinicalNMT/blob/main/ClinicalNMT_logo.png" width="100">
+<img src="https://github.com/HECTA-UoM/ClinicalNMT/blob/main/ClinicalNMT_logo.png" width="300">
 
 
 # ClinicalNMT
