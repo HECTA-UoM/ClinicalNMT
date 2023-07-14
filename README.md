@@ -5,8 +5,8 @@
 Clinical NMT Projects and Related Resources
 
 # Presentations
-ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https://virtual2023.aclweb.org/paper_ClinicalNLP_6.html
-[PPT](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/ClinicalNLP2023_ppt.pptx.pdf)
+ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https://virtual2023.aclweb.org/paper_ClinicalNLP_6.html | 
+[PPT](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/ClinicalNLP2023_ppt.pptx.pdf) |[paper](https://aclanthology.org/2023.clinicalnlp-1.5.pdf)
 
 WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.org/program/workshops/ | [Poster](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/WMT22_poster_Han_etal.pdf)
 
