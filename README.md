@@ -1,3 +1,6 @@
+<img src="https://github.com/HECTA-UoM/ClinicalNMT/blob/main/ClinicalNMT_logo.png" width="100">
+
+
 # ClinicalNMT
 Clinical NMT Projects and Related Resources
 
