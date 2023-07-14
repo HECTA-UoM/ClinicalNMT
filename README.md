@@ -2,7 +2,7 @@
 
 
 # ClinicalNMT
-Clinical NMT Projects and Related Resources
+Clinical Neural Machine Translation Projects and Related Resources
 
 # Presentations
 ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https://virtual2023.aclweb.org/paper_ClinicalNLP_6.html | 
