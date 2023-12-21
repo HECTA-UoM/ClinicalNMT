@@ -10,6 +10,16 @@ ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https
 
 WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.org/program/workshops/ | [Poster](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/WMT22_poster_Han_etal.pdf)
 
+# New Pre-print on our [ClinicalNMT findings](https://arxiv.org/abs/2312.07250)
+
+@misc{han2023neural,
+      title={Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning}, 
+      author={Lifeng Han and Serge Gladkoff and Gleb Erofeev and Irina Sorokina and Betty Galiano and Goran Nenadic},
+      year={2023},
+      eprint={2312.07250},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
 #  References
 
