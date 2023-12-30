@@ -2,7 +2,8 @@
 
 
 # ClinicalNMT
-Clinical Neural Machine Translation Projects and Related Resources
+Clinical Neural Machine Translation Projects: place holder for data to be shared.
+
 
 # Presentations
 ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https://virtual2023.aclweb.org/paper_ClinicalNLP_6.html | 
@@ -10,7 +11,7 @@ ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https
 
 WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.org/program/workshops/ | [Poster](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/WMT22_poster_Han_etal.pdf)
 
-# New Pre-print on our [ClinicalNMT findings](https://arxiv.org/abs/2312.07250)
+# New Pre-print on our [ClinicalNMT findings](https://arxiv.org/abs/2312.07250) data to be shared upon paper acceptance
 
 @misc{han2023neural,
       title={Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning}, 
