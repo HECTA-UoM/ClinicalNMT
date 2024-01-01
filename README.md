@@ -22,6 +22,9 @@ WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.
       primaryClass={cs.CL}
 }
 
+Submitted to Frontiers in Digital Health - Health Informatics
+
+
 #  References
 
 @inproceedings{han-etal-2022-examining,
