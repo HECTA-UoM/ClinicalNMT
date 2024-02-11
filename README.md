@@ -24,6 +24,11 @@ WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.
 
 Submitted to Frontiers in Digital Health - Health Informatics
 
+# resources
+The dataset used is available for research purposes, please contact: Serge Gladkoff, CEO, Logrus Global (https://logrusglobal.com/)
+
+Models investigated: MarianNMT, NLLB, WMT21fb
+
 
 #  References
 
