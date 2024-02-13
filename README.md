@@ -2,7 +2,7 @@
 
 
 # ClinicalNMT
-Clinical Neural Machine Translation Projects: place holder for data to be shared.
+Clinical Neural Machine Translation Projects: data, resources, and models for research sharing.
 
 
 # Presentations
