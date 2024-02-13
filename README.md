@@ -12,7 +12,7 @@ ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https
 WMT2022 https://www.statmt.org/wmt22/papers.html @ EMNLP2022 https://2022.emnlp.org/program/workshops/ | [Poster](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/WMT22_poster_Han_etal.pdf)
 
 # New Pre-print on our [ClinicalNMT findings](https://arxiv.org/abs/2312.07250)- Accepted by [Frontiers in Digital Health](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2024.1211564/abstract)
-Original Research article in collections of Healthcare Text Analytics: Unlocking the Evidence from Free Text, Volume III
+Original Research Article in collections of Healthcare Text Analytics: Unlocking the Evidence from Free Text, Volume III
 
 @misc{han2023neural,
       title={Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning}, 
@@ -23,7 +23,6 @@ Original Research article in collections of Healthcare Text Analytics: Unlocking
       primaryClass={cs.CL}
 }
 
-Submitted to Frontiers in Digital Health - Health Informatics
 
 # resources
 The dataset used is available for research purposes, please contact: Serge Gladkoff, CEO, Logrus Global (https://logrusglobal.com/)
