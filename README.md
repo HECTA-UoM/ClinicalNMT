@@ -6,7 +6,7 @@ Clinical Neural Machine Translation Projects: data, resources, and models for re
 
 
 # Presentations
-OpenNLP club 2024 https://youtu.be/RudrQQIMAS0 | 
+OpenNLP club 2024 https://youtu.be/RudrQQIMAS0 [PPT](https://docs.google.com/presentation/d/1RWGS5sUmJ6xX1asH3sik9w7Dk7J1Rmrt/edit?usp=sharing&ouid=112530642263849099949&rtpof=true&sd=true)| 
 ClinicalNLP2023 https://clinical-nlp.github.io/2023/program.html @ ACL2023 https://virtual2023.aclweb.org/paper_ClinicalNLP_6.html | 
 [PPT](https://github.com/HECTA-UoM/ClinicalNMT/blob/main/ClinicalNLP2023_ppt.pptx.pdf) |[paper](https://aclanthology.org/2023.clinicalnlp-1.5.pdf)
 
