@@ -51,11 +51,25 @@ Models investigated: MarianNMT, NLLB, WMT21fb (model links in our [paper](https:
 }
 
 
-@misc{han2023investigating,
-      title={Using Massive Multilingual Pre-Trained Language Models Towards Real Zero-Shot Neural Machine Translation in Clinical Domain}, 
-      author={Lifeng Han and Gleb Erofeev and Irina Sorokina and Serge Gladkoff and Goran Nenadic},
-      year={2023},
-      eprint={2210.06068},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{han-etal-2023-investigating,
+    title = "Investigating Massive Multilingual Pre-Trained Machine Translation Models for Clinical Domain via Transfer Learning",
+    author = "Han, Lifeng  and
+      Erofeev, Gleb  and
+      Sorokina, Irina  and
+      Gladkoff, Serge  and
+      Nenadic, Goran",
+    editor = "Naumann, Tristan  and
+      Ben Abacha, Asma  and
+      Bethard, Steven  and
+      Roberts, Kirk  and
+      Rumshisky, Anna",
+    booktitle = "Proceedings of the 5th Clinical Natural Language Processing Workshop",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.clinicalnlp-1.5",
+    doi = "10.18653/v1/2023.clinicalnlp-1.5",
+    pages = "31--40",
+    abstract = "Massively multilingual pre-trained language models (MMPLMs) are developed in recent years demonstrating superpowers and the pre-knowledge they acquire for downstream tasks. This work investigates whether MMPLMs can be applied to clinical domain machine translation (MT) towards entirely unseen languages via transfer learning. We carry out an experimental investigation using Meta-AI{'}s MMPLMs {``}wmt21-dense-24-wide-en-X and X-en (WMT21fb){''} which were pre-trained on 7 language pairs and 14 translation directions including English to Czech, German, Hausa, Icelandic, Japanese, Russian, and Chinese, and the opposite direction. We fine-tune these MMPLMs towards English-\textit{Spanish} language pair which \textit{did not exist at all} in their original pre-trained corpora both implicitly and explicitly.We prepare carefully aligned \textit{clinical} domain data for this fine-tuning, which is different from their original mixed domain knowledge.Our experimental result shows that the fine-tuning is very successful using just 250k well-aligned in-domain EN-ES segments for three sub-task translation testings: clinical cases, clinical terms, and ontology concepts. It achieves very close evaluation scores to another MMPLM NLLB from Meta-AI, which included Spanish as a high-resource setting in the pre-training.To the best of our knowledge, this is the first work on using MMPLMs towards \textit{clinical domain transfer-learning NMT} successfully for totally unseen languages during pre-training.",
 }
