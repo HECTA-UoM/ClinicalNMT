@@ -28,7 +28,7 @@ Original Research Article in collections of Healthcare Text Analytics: Unlocking
 # resources
 The dataset used is available for research purposes, please contact: Serge Gladkoff, CEO, Logrus Global (https://logrusglobal.com/)
 
-Models investigated: MarianNMT, NLLB, WMT21fb
+Models investigated: MarianNMT, NLLB, WMT21fb (model links in our [paper](https://doi.org/10.3389/fdgth.2024.1211564) )
 
 
 #  References
